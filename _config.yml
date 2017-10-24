@@ -4,7 +4,7 @@ sub_description: A full stack web developer and consultant based in Delhi, IN. I
 
 show_downloads: true
 google_analytics:
-theme: 
+theme: jekyll-theme-cayman
 
 external-image: true
 picture: https://avatars0.githubusercontent.com/u/7446742?v=3&u=00733420e005cc53cf7336848e927578ebc7e1f6&s=400
