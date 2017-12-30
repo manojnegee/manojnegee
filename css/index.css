@@ -358,7 +358,8 @@ footer {
   padding: 5rem 1rem;
 }
 #site-title,
-#site-sub-title {
+#site-sub-title,
+#site-description {
   color: #eee;
   text-align: center;
   line-height: 1.5;
@@ -368,6 +369,9 @@ footer {
   font-size: 1.3rem;
 }
 #site-sub-title {
+  font-size: 0.8rem;
+}
+#site-description {
   font-size: 0.8rem;
 }
 #site-social-icons {
@@ -467,6 +471,11 @@ footer {
   }
   #site-sub-title {
     font-size: 1.2rem;
+  }
+  #site-description {
+    width: 74%;
+    margin: auto;
+    font-size: 1rem;
   }
 }
 @media screen and (max-width: 768px) {
